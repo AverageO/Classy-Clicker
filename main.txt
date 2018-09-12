@@ -5,3 +5,10 @@ Let's make a game!
 	created:Sept. 12, 2018
 	updated:09/12/18
 	version:Alpha
+
+Settings
+	background:https://i.imgur.com/BQ7IsWh.png
+	building cost increase:115%
+	building cost refund:50%
+	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
+	stylesheet:stuff/bigBlue.css
