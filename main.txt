@@ -1,0 +1,7 @@
+Let's make a game!
+	name:Classy Clicker
+	by:Average O
+	desc:This is a completely new and original game idea where you collect hats to prove your worth in society!<//>Click away, fancy fellow!
+	created:Sept. 12, 2018
+	updated:09/12/18
+	version:Alpha
