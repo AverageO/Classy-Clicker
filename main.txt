@@ -57,4 +57,4 @@ Buildings
 		icon:https://i.imgur.com/PbR7k6Y.png
 		cost:100 hats
 		on tick:yield 0.5 hats
-		req:100 bunnies:earned
+		req:100 hats:earned
