@@ -46,7 +46,7 @@ Buildings
 	*prisoner|prisoners
 		name:Prisoner|Prisoners
 		desc:What? They've got nothing better to do.<//><b>Effect:</b><.>Produces 1 hat every 10 seconds.
-		icon:https://i.imgur.com/PbR7k6Y.png
+		icon:https://i.imgur.com/Q75Luhn.png
 		cost:15 hats
 		on tick:yield 0.1 hats
 		unlocked
@@ -54,7 +54,7 @@ Buildings
 	*peasant|peasants
 		name:Peasant|Peasants
 		desc:The lowest class of society. They serve the king.<//><b>Effect:</b><.>Produces 1 hat every 2 seconds.
-		icon:https://i.imgur.com/PbR7k6Y.png
+		icon:https://i.imgur.com/Q75Luhn.png
 		cost:100 hats
 		on tick:yield 0.5 hats
 		req:100 hats:earned
