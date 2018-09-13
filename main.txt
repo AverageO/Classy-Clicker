@@ -33,3 +33,11 @@ Resources
 		desc:These are the hats you have. Your goal is to earn as many hats as possible!
 		icon:https://i.imgur.com/gOoQzJ5.png
 		show earned
+		
+Shinies
+	*luckyHat
+  		name:Lucky Hat
+		on click:yield (random(10,100)) hats
+		movement:anywhere fade bounce moveRandom
+		frequency:120
+		icon:https://i.imgur.com/M4h9y0z.png
