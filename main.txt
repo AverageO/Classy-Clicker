@@ -21,7 +21,7 @@ Buttons
 		desc:Click this big hat to earn more hats.
 		on click:yield 1 hat
 		on click:anim icon wobble
-		icon:https://i.imgur.com/a7zD0D2.png
+		icon:https://i.imgur.com/m3ghWAp.png
 		class:bigButton hasFlares
 		icon class:shadowed
 		tooltip origin:bottom
