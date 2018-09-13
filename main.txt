@@ -53,7 +53,7 @@ Buildings
 
 	*peasant|peasants
 		name:Peasant|Peasants
-		desc:The lowest class of society. They serve the king.<//><b>Effect:</b><.>Produces 1 hat every 2 seconds.
+		desc:The lowest class of society.<//><b>Effect:</b><.>Produces 1 hat every 2 seconds.
 		icon:https://i.imgur.com/Q75Luhn.png
 		cost:100 hats
 		on tick:yield 0.5 hats
