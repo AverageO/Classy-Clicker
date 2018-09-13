@@ -41,3 +41,11 @@ Shinies
 		movement:anywhere fade bounce moveRandom
 		frequency:120
 		icon:https://i.imgur.com/M4h9y0z.png
+
+Buildings
+	*prison|prisons
+		name:Prison Worker|Prison Workers
+		desc:What? They've got nothing better to do.<//><b>Effect:</b><.>Produces 1 hat every 10 seconds.
+		cost:15 hats
+		on tick:yield 0.1 hats
+		unlocked
