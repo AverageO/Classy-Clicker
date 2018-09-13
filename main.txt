@@ -19,7 +19,8 @@ Buttons
 	*hatButton
 		name:The Big Hat
 		desc: Click this big hat to earn more hats.
-		onclick:yield 1 hat
+		onclick:anim icon wobble
+		on click:yield 1 hat
 		icon:https://i.imgur.com/a7zD0D2.png
 
 Resources
