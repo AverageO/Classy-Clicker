@@ -12,3 +12,12 @@ Settings
 	building cost refund:50%
 	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
 	stylesheet:stuff/bigBlue.css
+Layout
+	use default
+	
+Resources
+	*hat|hats
+		name:Hat|Hats
+		desc:These are the hats you have. Your goal is to earn as many hats as possible!
+		icon:https://i.imgur.com/gOoQzJ5.png
+		show earned
