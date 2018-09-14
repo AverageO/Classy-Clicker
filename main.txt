@@ -45,7 +45,7 @@ Shinies
 Buildings
 	*prisoner|prisoners
 		name:Prisoner|Prisoners
-		desc:What? They've got nothing better to do.<//><b>Effect:</b><.>Produces 1 hat every 10 seconds.
+		desc:Creates hats for you since they have nothing better to do.<//><b>Effect:</b><.>Produces 1 hat every 10 seconds.
 		icon:https://i.imgur.com/Q75Luhn.png
 		cost:15 hats
 		on tick:yield 0.1 hats
@@ -53,8 +53,16 @@ Buildings
 
 	*peasant|peasants
 		name:Peasant|Peasants
-		desc:The lowest class of society.<//><b>Effect:</b><.>Produces 1 hat every 2 seconds.
+		desc:The lowest class of society.<//><b>Effect:</b><.>Produces 1 hat per second.
 		icon:https://i.imgur.com/GDmS8SW.png
 		cost:100 hats
 		on tick:yield 0.5 hats
 		req:100 hats:earned
+
+	*citizen|citizens
+		name:Citizen|Citizens
+		desc:These are hard-working people getting by just fine.<//><b>Effect:</b><.>Produces 8 hats per second.
+		icon:https://i.imgur.com/QP2DW4O.png
+		cost:1100 hats
+		on tick:yield 8 hats
+		req:600 hats:earned
